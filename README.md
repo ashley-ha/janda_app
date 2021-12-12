@@ -1,2 +1,2 @@
-# janda_app
-ashley &amp; jaeyuns app 
+## hello ! this is our first app
+### more to come ~
