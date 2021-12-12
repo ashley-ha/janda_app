@@ -1,6 +1,6 @@
 ## todo:
 1) research about Flutter 
-2) install Xcode from app store on mac
+2) install Xcode from app store on mac (xcode will be our IDE that we use to develop the app)
 3) use these steps to get coding env setup 
   4) install zip file from https://docs.flutter.dev/get-started/install/macos#platform-setup (blue button)
   5) file will also be in our "development" folder in this repository 
