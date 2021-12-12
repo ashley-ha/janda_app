@@ -1,0 +1,13 @@
+## todo:
+1) research about Flutter 
+2) install Xcode from app store on mac
+3) use these steps to get coding env setup 
+  4) install zip file from https://docs.flutter.dev/get-started/install/macos#platform-setup (blue button)
+  5) file will also be in our "development" folder in this repository 
+  6) add flutter tool to your macbook path using command "export PATH="$PATH:`pwd`/flutter/bin"
+ 7) after installing flutter & xcode:
+  8) to run an iOs simulator:  command "open -a Simulator"
+  9) A my_app directory is created, containing Flutter’s starter app. use this command "cd my_app" 
+  10) To launch the app in the Simulator, ensure that the Simulator is running and enter:
+    11) "flutter run" 
+
