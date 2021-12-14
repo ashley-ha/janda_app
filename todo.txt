@@ -10,4 +10,5 @@
   9) A my_app directory is created, containing Flutter’s starter app. use this command "cd my_app" 
   10) To launch the app in the Simulator, ensure that the Simulator is running and enter:
     11) "flutter run" 
+    12)
 
